@@ -16,8 +16,6 @@ You can instantly transfer one-time passwords, links and even media files in rea
 when you and then Download no need to build local networks like ShareIt that even disconnects you from your WIFI and get Disrupted even if you move to another room, Just 10 sec for setup and file transfer begains. 
 No need to Login, Authenticate, and do time Waisting stuff
 
-### Live link: https://lightconnectors.herokuapp.com/
-
 
 ----
 
@@ -29,12 +27,4 @@ No need to Login, Authenticate, and do time Waisting stuff
 
 
 # Credits 🇮🇳
-* ![TeamLightConnector-Devs](https://img.shields.io/static/v1?label=TeamLightConnector&message=devs&color=critical)
-* [Socket.io](https://github.com/socketio/socket.io)
-* [Node.Js](https://github.com/nodejs)
-* [Html5-QRCode](https://github.com/mebjas/html5-qrcode)
-* [Docker](https://github.com/jenkinsci/docker)
-* [Nginx](https://github.com/nginx/nginx)
-
-
-> Made with 💕 by ![TeamLightConnector-Devs]
+* Divyaamsh Bharat Verma
